@@ -1,0 +1,5 @@
+Bucketblog by Joel Dare
+
+Bucketblog is a simple photoblogging site that pulls it's 
+images from the RSS feed of a Photobucket Album. It's 
+written in PHP and is released under the MIT License.
