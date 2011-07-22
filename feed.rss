@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>codazoda&apos;s Photobucket Bucketblog Demo album media</title>
+        <description>A feed of codazoda&apos;s images and videos for this album</description>
+        <pubDate>Fri, 22 Jul 2011 07:48:46 MDT</pubDate>
+        <link>http://s1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/?sort=ascending</link>
+        <lastBuildDate>Fri, 22 Jul 2011 07:50:39 MDT</lastBuildDate>
+        <generator>Photobucket feed generator</generator>
+        <language>en-us</language>
+        <ttl>60</ttl>
+        <item>
+            <title>bucketblog.jpg</title>
+            <link>http://s1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/?action=view&amp;current=bucketblog.jpg&amp;sort=ascending</link>
+            <dc:creator>codazoda</dc:creator>
+            <description>&lt;p&gt;&lt;a href=&quot;http://s1186.photobucket.com/albums/z378/codazoda/&quot;&gt;codazoda&lt;/a&gt; posted a photo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://s1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/?action=view&amp;current=bucketblog.jpg&amp;sort=ascending&quot; title=&quot;bucketblog.jpg&quot;&gt;&lt;img src=&quot;http://i1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/th_bucketblog.jpg&quot; alt=&quot;bucketblog.jpg&quot; /&gt;&lt;/a&gt;&lt;br&gt;bucketblog.jpg&lt;/p&gt;</description>
+            <guid>http://i1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/bucketblog.jpg</guid>
+            <enclosure type="image/jpeg" url="http://i1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/bucketblog.jpg" />
+            <media:content medium="image" type="image/jpeg" url="http://i1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/bucketblog.jpg">
+                <media:title>bucketblog.jpg</media:title>
+                <media:description />
+                <media:thumbnail url="http://i1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/th_bucketblog.jpg" />
+            </media:content>
+            <pubDate>Fri, 22 Jul 2011 07:48:46 MDT</pubDate>
+        </item>
+        <item>
+            <title>photobucket.jpg</title>
+            <link>http://s1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/?action=view&amp;current=photobucket.jpg&amp;sort=ascending</link>
+            <dc:creator>codazoda</dc:creator>
+            <description>&lt;p&gt;&lt;a href=&quot;http://s1186.photobucket.com/albums/z378/codazoda/&quot;&gt;codazoda&lt;/a&gt; posted a photo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://s1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/?action=view&amp;current=photobucket.jpg&amp;sort=ascending&quot; title=&quot;photobucket.jpg&quot;&gt;&lt;img src=&quot;http://i1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/th_photobucket.jpg&quot; alt=&quot;photobucket.jpg&quot; /&gt;&lt;/a&gt;&lt;br&gt;photobucket.jpg&lt;/p&gt;</description>
+            <guid>http://i1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/photobucket.jpg</guid>
+            <enclosure type="image/jpeg" url="http://i1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/photobucket.jpg" />
+            <media:content medium="image" type="image/jpeg" url="http://i1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/photobucket.jpg">
+                <media:title>photobucket.jpg</media:title>
+                <media:description />
+                <media:thumbnail url="http://i1186.photobucket.com/albums/z378/codazoda/Bucketblog%20Demo/th_photobucket.jpg" />
+            </media:content>
+            <pubDate>Fri, 22 Jul 2011 07:42:25 MDT</pubDate>
+        </item>
+    </channel>
+</rss>
